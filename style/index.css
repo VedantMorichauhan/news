@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav {
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+#nav a p {
+  color: #f2eaea;
+}
+#nav a {
+  text-decoration: none;
+}
+#home{
+    font-size: 50px;
+    text-align: center;
+}
